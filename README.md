@@ -9,7 +9,7 @@ The intention is that the lid, and possibly the case, are modified for whatever 
 
 Print on a resin printer using normal (e.g. 0.05&nbsp;mm) resolution and no pads or supports for a nice clean look; you may end up with a little loose material on the body around the top of the switch slot, which can be removed after washing/curing with a scalpel.  Printing should take less than an hour.
 
-Here is an example printed in an ASA-like resin:
+Here is an example printed in an ABS-like resin:
 
 ![Case components](images_for_readme/case_components.jpg "Case components")
 ![Lever inserted](images_for_readme/lever_inserted.jpg "Lever inserted")
