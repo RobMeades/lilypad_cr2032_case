@@ -15,7 +15,7 @@ This way you wlll have room to print several copies at once.  You will need supp
 Here is an example printed in natural ASA:
 
 ![Ready to print](images_for_readme/ready_to_print_fdm.png "Ready to print")
-![Printed](images_for_readme/printed_fdm.png "Printed")
+![Printed](images_for_readme/printed_fdm.jpg "Printed")
 ![Case components](images_for_readme/case_components_fdm.jpg "Case components")
 ![Lever inserted](images_for_readme/lever_inserted_fdm.jpg "Lever inserted")
 ![Lilypad CR2032 board inserted](images_for_readme/lilypad_cr2032_board_inserted_fdm.jpg "Lilypad CR2032 board inserted")
